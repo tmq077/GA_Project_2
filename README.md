@@ -82,9 +82,9 @@ Source: Kaggle (https://www.kaggle.com/competitions/dsi-sg-project-2-regression-
 
 ### Conclusion
 
-- A Linear Regression model is trained with 9 key features.
+- A Linear Regression model is trained with 9 key features, where 89% of the variations in resale price can be explained by the features, with ±$48000 price difference.
 - These features include: transaction year, floor area, age of HDB, full flat type, nearest distance to MRT, nearest distance to mall, postal sector, distance to CBD, and mid storey.
-- With this model, a HDB resale price calculator is developed (https://dsi39-project2-colony.streamlit.app/), where 89% of the variations in resale price can be explained by the features, with ±$48000 price difference, allowing potential homebuyers to easily predict the price of their desired resale flat.
+- With this model, a HDB resale price calculator is developed, allowing potential homebuyers to easily predict the price of their desired resale flat.
 
 ---
 
